@@ -1,4 +1,4 @@
-# Final Project: Finch Robot Challenges
+# Final Project: Finch Robot Challenge
 
 ## Essential Question
 How can we apply object-oriented programming principles and Java concepts to create interactive, autonomous robot behaviors that solve real-world challenges?
