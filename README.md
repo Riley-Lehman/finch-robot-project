@@ -18,101 +18,17 @@ Your program must demonstrate your understanding of Java programming concepts fr
 - Create well-documented and maintainable code
 - Practice technical communication through presentations and documentation
 
-## Timeline/Checklist
+## Description of Design Choices
+We decided to create a basic square shaped face and gave it a blocky smile with two line eyes, the inspiration was derived from our intense emotions of pride and excitment as we are finishing the school year today. We used the color brown because it would show the best on camera and had to move the finch multiple times for the blank spaces in our drawing. 
 
-### Planning & Research
-- Choose your challenge: dance, drawing, or maze navigation
-- Explore the Finch API documentation
-- Review sample programs from BirdBrain Technologies
-- Create a project plan with pseudocode/flow charts/
-- Clone and set up GitHub repository for your project
+## Challenges Faced and Solutions
+The picture we decided to create was basic, but it had multiple blank spaces within it. Essentially, Ruby and I integrated pauses into our code so we would have enough time to move it and position it correctly. 
 
-### Development
-- Write initial code implementation
-- Test basic functionality with the Finch robot
-- Debug and refine your approach
-- Document your progress and challenges
+## Future Enhancements
+In the future we wold most likely add more code, including colored lights and even more sounds, we decided to add sounds for extra pazaz, but if we had more time we would have made it even greater.  
 
-### Implementation & Testing
-- Complete core functionality implementation
-- Conduct thorough testing with the robot
-- Optimize code for readability and efficiency
-- Start preparing documentation
-
-### Finalization
-- Finalize code and ensure complete functionality
-- Complete README documentation
-- Prepare for demonstration
-- Submit final project to GitHub
-
-### Deployment
-- Demonstrate your project
-
-## Required Components
-
-### Technical Requirements
-Your program must include at least 5 of these Java/OOP concepts:
-- Inheritance/Subclasses
-- Method overloading or overriding
-- Arrays or ArrayLists
-- Loops (for, while, etc.)
-- Conditional statements
-- Exception handling
-- File I/O for configuration or logging
-- Constants and static methods
-- User input processing
-
-### Documentation Requirements
-- Well-commented code with appropriate Javadoc
-- GitHub repository with organized file structure
-- README.md file including:
-  * Project description and objectives
-  * Description of design choices
-  * Challenges faced and solutions
-  * Future enhancements
-  * Video or images of your robot in action (embedded or linked)
-
-## Project Rubric (16 points total)
-
-| Category | 4 Points | 3 Points | 2 Points | 1 Point |
-|----------|----------|----------|----------|---------|
-| **Program Functionality** | Program fully accomplishes the chosen challenge with additional creative features. Robot behavior is refined, reliable, and impressive. | Program successfully completes the chosen challenge with minor limitations. Robot behavior is consistent and functional. | Program partially completes the challenge with some inconsistencies. Robot behavior has notable limitations. | Program fails to achieve the core objectives of the challenge. |
-| **Code Quality & OOP Implementation** | Code demonstrates excellent OOP design with 6+ APCSA concepts implemented effectively. Code is elegant, efficient, and well-structured. | Code uses good OOP practices with 5 APCSA concepts implemented correctly. Code is readable and organized. | Code implements basic OOP structure with minimum required APCSA concepts. Some organizational issues present. | Code lacks proper OOP implementation or has significant structural problems. |
-| **Documentation & GitHub Repository** | Exceptional documentation with comprehensive README, well-commented code, and excellent repository organization. | Complete documentation with clear README, adequately commented code, and organized repository. | Basic documentation with minimal README, some comments, and basic repository structure. | Insufficient documentation or poorly organized repository. |
-| **Development & Version Control** | The repository demonstrates excellent use of Git and GitHub by having many commits and updates to one or more branches of the repository | The repository shows great use of Git and GitHub by having more than 2 new commits to the repository | The repository demonstrates basic used of Git and GitHub by having at least 1 new commit to a branch of the repository | The repository only have the initial clone of the or no project submitted |
-
-## Challenge-Specific Guidelines
-
-### Dance Challenge
-Create a choreographed dance routine for your Finch that synchronizes:
-- Movement patterns (forward/backward, turns)
-- LED light displays (beak and tail)
-- Sound patterns using the buzzer
-- Consider using arrays to store sequences of movements/lights/sounds
-
-### Drawing Challenge
-Program your Finch to create an artistic drawing:
-- Design an algorithm to create a recognizable pattern or image
-- Use precise motor control for clean lines
-- Consider incorporating sensor data to affect the drawing
-- Create a system to track position on the drawing surface
-
-### Maze Navigation Challenge
-Program your Finch to navigate through a maze:
-- Use distance sensors to detect walls
-- Implement an algorithm for maze solving (wall following, etc.)
-- Consider storing and analyzing the path taken
-- Add visual/audio feedback during navigation
-- Optional: Allow for maze "learning" and optimization on repeated runs
-
-## Resources
-- Finch API Documentation (provided in class)
-- [BirdBrain Technologies Learning Resources](https://learn.birdbraintechnologies.com/finch/java/program/)
-- [Java API Documentation](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
-
-## Extension Opportunities
-If you complete your chosen challenge early, consider:
-- Adding sensor-responsive behaviors to your program
-- Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
-- Implementing multiple modes of operation
-- Adding an obstacle detection and avoidance system
+## Video or Images of your Robot in Action
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-3.png)
+![alt text](image-2.png)
